@@ -1,0 +1,20 @@
+#wrapper {height:100%;
+		  width:90%;
+		  border:5px solid black;}
+#logo {height:100px;
+		
+		background:yellow;}
+#navbar {height:500px;
+		 width:150px;
+		 background:red;
+		 position:relative;
+		 top:-16px;
+		 left:0px;}
+#navbar li {list-style:none;}
+#navbar a {text-decoration:none;}				  
+#content {height:500px;
+		  width:1203px;
+		  background:blue;
+	      position:relative;
+		  top:-516px;
+		  left:150px;}
